@@ -1,16 +1,14 @@
-# 🧠 Mathematical Modeling in Neuroscience
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Human_brain_NIH.jpg/640px-Human_brain_NIH.jpg" alt="Brain" width="150" align="right" />
+# 🧠 Mathematical Modelling in Neuroscience
 
 ## Instructors
 
-- Fernanda Selingardi (UFAL)  
-- Leonardo Gollo (UBA)  
-- Marilyn Gatica (NEU)  
+- Fernanda Selingardi (Universidade Federal de Alagoas, Brazil)  
+- Leonardo Gollo (Campus Universitat de les Illes Balears, Palma de Mallorca. Spain)  
+- Marilyn Gatica (Northeastern University London, UK)  
 
 ---
 
-**Keywords**: Neural dynamics, synchronization phenomena, criticality in neural networks, brain network analysis, differential equations, dynamical systems
+**Keywords**: Neural dynamics, synchronisation phenomena, criticality in neural networks, brain network analysis, differential equations, dynamical systems
 
 ---
 
