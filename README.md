@@ -44,6 +44,13 @@ The course will include **theoretical material**, **tutorials**, and access to *
 | 14:00–15:30        | Fernanda              | Single Neuron Tutorial: Marilyn | Connectivity Tutorial: Marilyn | Cognition: Leo       |
 
 
+##  🚀 Dependencies (Important!)
+
+To ensure the tutorials run smoothly, **please install the required packages** for each part of the workshop:
+
+- ✅ [**Modelling dependencies**]
+- ✅ [**Optional: HOI package**](https://github.com/brainets/hoi)
+  
 ---
 
 Feel free to clone this repository and follow along with the materials as they're released.
