@@ -41,7 +41,7 @@ The course will include **theoretical material**, **tutorials**, and access to *
 | Time               | Monday                | Tuesday              | Wednesday            | Thursday             |
 |--------------------|-----------------------|----------------------|-----------------------|----------------------|
 | 09:10–10:30        | Intro: Fernanda       | Brain Across Scales | Criticality: Leo     | HOI: Marilyn         |
-| 14:00–15:30        | Fernanda              | Tutorial Single Neuron: Marilyn | Connectivity Tutorial: Marilyn | Cognition: Leo       |
+| 14:00–15:30        | Fernanda              | Single Neuron Tutorial: Marilyn | Connectivity Tutorial: Marilyn | Cognition: Leo       |
 
 
 ---
