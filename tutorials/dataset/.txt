@@ -1,1 +1,3 @@
+The dataset comprises structural connectivity and time series from 161 subjects, along with associated age metadata.  
+Data sourced from: [KGatica/High-Order-interactions (GitHub)](https://github.com/KGatica/High-Order-interactions/tree/master/dataset)
 
