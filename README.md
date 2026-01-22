@@ -48,7 +48,7 @@ The course will include **theoretical material**, **tutorials**, and access to *
 
 To ensure the tutorials run smoothly, **please install the required packages** for each part of the workshop:
 
-- ✅ **Modelling dependencies**: Required packages: numpy, scipy, matplotlib, and bctpy.
+- ✅ **Required dependencies**: numpy, scipy, matplotlib, and bctpy.
 - ✅ [**Optional: HOI package**](https://github.com/brainets/hoi)
   
 ---
