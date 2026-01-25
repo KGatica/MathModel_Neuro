@@ -38,10 +38,11 @@ The course will include **theoretical material**, **tutorials**, and access to *
 
 ## 🗓 Schedule
 
-| Time               | Monday                | Tuesday              | Wednesday            | Thursday             |
-|--------------------|-----------------------|----------------------|-----------------------|----------------------|
-| 09:00–10:30        | Intro: Fernanda       | Brain Across Scales | Criticality: Leo     | HOI: Marilyn         |
-| 14:00–15:30        | Fernanda              | Single Neuron Tutorial: Marilyn | Connectivity Tutorial: Marilyn | Cognition: Leo       |
+| Time        | Monday | Tuesday | Wednesday | Thursday |
+|-------------|--------|---------|-----------|----------|
+| 09:00–10:30 | Introduction | Brain Across Scales | Higher-Order analysis | Brain Criticality |
+| 14:00–15:30 | Biological Neural Networks (theory)<br>Single neuron tutorial | Connectivity Tutorial | Brain synchronization | Cognition |
+
 
 
 ##  🚀 Dependencies (Important!)
