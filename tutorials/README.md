@@ -66,9 +66,9 @@ With the environment activated, install the basic packages:
 conda install numpy scipy matplotlib bctpy jupyter
 ```
 
-## 📁 5. Go to the Tutorial Folder
+📁 5. Go to the Tutorial Folder
 
-Before starting Jupyter Notebook, make sure you are located in the
+Before starting Jupyter Notebook, make sure you are located in the 
 folder that contains the tutorial materials.
 
 1. Download the tutorials / data to your computer.
