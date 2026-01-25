@@ -26,11 +26,11 @@ This makes it lightweight and ideal for creating **clean, controlled environment
 
 Download the latest **Miniconda3** installer for your operating system:
 
-🔗 https://docs.conda.io/en/latest/miniconda.html
+🔗 https://www.anaconda.com/download-success
 
 Choose:
-- 💻 The installer for your system (**Windows**, **macOS**, or **Linux**)
-- ▶️ Run the installer and follow the default instructions
+- The installer for your system (**Windows**, **macOS**, or **Linux**)
+- Run the installer and follow the default instructions
 
 ---
 
@@ -46,21 +46,28 @@ Check that Python is installed:
 python --version
 ```
 
-##
-🧱 3. Create a New Python Environment
-Create a clean environment called myenv_tutorial:
+## 🧱 Create a New Python Environment
 
+Create a clean environment called "myenv_tutorial":
+
+```console
 conda create -n myenv_tutorial python=3.10
-Activate it:
+```
 
+Activate it:
+```console
 conda activate myenv_tutorial
+```
 ✅ You should now see (myenv_tutorial) in your terminal.
 
 📦 4. Install Scientific Packages
 With the environment activated, install the basic packages:
-
+```console
 conda install numpy scipy jupyter
+```
+
 📓 5. Start Jupyter Notebook
 Launch Jupyter Notebook with:
-
+```console
 jupyter notebook
+```
