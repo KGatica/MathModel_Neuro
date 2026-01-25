@@ -63,10 +63,27 @@ conda activate myenv_tutorial
 📦 4. Install Scientific Packages
 With the environment activated, install the basic packages:
 ```console
-conda install numpy scipy jupyter
+conda install numpy scipy matplotlib bctpy jupyter
 ```
 
-📓 5. Start Jupyter Notebook
+## 📁 5. Go to the Tutorial Folder
+
+Before starting Jupyter Notebook, make sure you are located in the
+folder that contains the tutorial materials.
+
+1. Download the tutorials / data to your computer.
+2. Locate the main tutorial directory.
+3. Move into the folder of the tutorial you will use first
+   (we will start with **01_SingleNeuron/01_HH_Model.ipynb**).
+
+Use the terminal to navigate to the folder, for example:
+
+```console
+cd path/to/MathModel_Neuro/tutorials
+cd 01_SingleNeuron
+```
+
+📓 6. Start Jupyter Notebook
 Launch Jupyter Notebook with:
 ```console
 jupyter notebook
