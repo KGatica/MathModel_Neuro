@@ -26,7 +26,7 @@ This makes it lightweight and ideal for creating **clean, controlled environment
 
 Download the latest **Miniconda3** installer for your operating system:
 
-🔗 https://www.anaconda.com/download-success
+🔗 https://www.anaconda.com/download/success
 
 Choose:
 - The installer for your system (**Windows**, **macOS**, or **Linux**)
@@ -73,14 +73,12 @@ folder that contains the tutorial materials.
 
 1. Download the tutorials / data to your computer.
 2. Locate the main tutorial directory.
-3. Move into the folder of the tutorial you will use first
-   (we will start with **01_SingleNeuron/01_HH_Model.ipynb**).
+3. Move into the tutorials folder.
 
 Use the terminal to navigate to the folder, for example:
 
 ```console
 cd path/to/MathModel_Neuro/tutorials
-cd 01_SingleNeuron
 ```
 
 📓 6. Start Jupyter Notebook
