@@ -40,8 +40,8 @@ The course will include **theoretical material**, **tutorials**, and access to *
 
 | Time        | Monday | Tuesday | Wednesday | Thursday |
 |-------------|--------|---------|-----------|----------|
-| 09:00–10:30 | Introduction | Brain Across Scales | Higher-Order analysis | Brain Criticality |
-| 14:00–15:30 | Biological Neural Networks <br>Single neuron Tutorial | Connectivity Tutorial | Brain synchronization | Cognition |
+| 09:00–10:30 | Introduction | Brain Across Scales | Higher-Order analysis | Tutorial Surprise 👀|
+| 14:00–15:30 | Biological Neural Networks <br>Single neuron Tutorial | Connectivity Tutorial | Brain synchronization | Brain Criticality + Cognition |
 
 
 
